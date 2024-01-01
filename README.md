@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CRediT plugin for OJS
 
 This plugin adds support for the CASRAI CRediT contributor role standard in OJS.
@@ -10,3 +11,7 @@ Working group:
 - Esko Clarke Sario: Finnish Lifelong Learning Foundation (Kvs)
 - Alec Smecher: Public Knowledge Project
 - Frederique Belliard: Delft University of Technology - Library
+=======
+# OJS
+A OJS plugin for Credit contributor roles taxonomy.
+>>>>>>> origin/main

@@ -13,5 +13,5 @@ Working group:
 - Frederique Belliard: Delft University of Technology - Library
 =======
 # OJS
-A OJS plugin for Credit contributor roles taxonomy.
+A OJS plugin for Credit contributor roles taxonomy. This plugin is a derivative of the following: https://github.com/asmecher/credit
 >>>>>>> origin/main

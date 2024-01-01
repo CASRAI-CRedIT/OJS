@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CRediT plugin for OJS
 
 This plugin adds support for the CASRAI CRediT contributor role standard in OJS.
